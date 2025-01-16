@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Rafael Rezende Lehnhart.
+
+I'm currently learning programming and I'm interested in subjects related to information technology.
 <!--
 **lehnhart/lehnhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
